@@ -16,4 +16,11 @@
 ![Fanuc](https://img.shields.io/badge/-Fanuc%20Robots-05122A?style=flat&logo=robotframework&logoColor=yellow)&nbsp;
 ![Siemens PLC](https://img.shields.io/badge/-Siemens%20PLC-05122A?style=flat&logo=siemens&logoColor=00E0B3)&nbsp;
 
+### <img src="icons/3d.svg" alt="Robot" width="18"/> &nbsp;3D Modeling & Printing
+
+![Ultimaker Cura](https://img.shields.io/badge/-Ultimaker%20Cura-05122A?style=flat&logo=ultimaker&logoColor=white)&nbsp;
+![Autodesk Inventor](https://img.shields.io/badge/-Inventor-05122A?style=flat&logo=autodesk-inventor&logoColor=FF0000)&nbsp;
+![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender&logoColor=F5792A)&nbsp;
+
+
 
